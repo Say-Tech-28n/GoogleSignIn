@@ -1,0 +1,6 @@
+framework module LHZLBleSDK {
+  umbrella header "LHZLBleSDK.h"
+  export *
+
+  module * { export * }
+}

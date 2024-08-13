@@ -1,0 +1,6 @@
+framework module bmpRle {
+  umbrella header "bmpRle.h"
+  export *
+
+  module * { export * }
+}

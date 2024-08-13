@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://phpstack-1252920-4618688.cloudwaysapps.com/https://phpstack-1252920-4618688.cloudwaysapps.com/api/register';

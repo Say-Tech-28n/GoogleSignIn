@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13865198039",
+    "project_id": "snapup-ac67a",
+    "storage_bucket": "snapup-ac67a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13865198039:android:209cf5031717e600982b92",
+        "android_client_info": {
+          "package_name": "com.snapup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13865198039-msm089n9npdha77bnt4u0hiure8mpjbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKf_NWkl--nMwk4o87hcL6YorQ4crgztw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13865198039-msm089n9npdha77bnt4u0hiure8mpjbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
